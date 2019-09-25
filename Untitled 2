@@ -1,0 +1,6 @@
+BREAK VS RETURN
+BREAK:
+we can only use it inside switch and loop
+
+RETURN:
+exclusively used to return a value or terminate method execution
